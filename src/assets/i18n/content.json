@@ -1,0 +1,207 @@
+{
+  "en": {
+    "hero": {
+      "button": "Say Hello!",
+      "greeting": "Hey there!",
+      "heading": "I'm Gab, a front-end developer and UI/UX designer crafting user-centric interfaces with pixel-perfect precision.",
+      "availability": "Available for Freelancing",
+      "location": "Juiz de Fora, Brazil • UTC/GMT -3:00"
+    },
+    "about": {
+      "experience": {
+        "heading": "Experience",
+        "company1": {
+          "title": "Company 1",
+          "description": "Company 1 description",
+          "date": "Company 1 date"
+        },
+        "company2": {
+          "title": "Company 2",
+          "description": "Company 2 description",
+          "date": "Company 2 date"
+        },
+        "company3": {
+          "title": "Company 3",
+          "description": "Company 3 description",
+          "date": "Company 3 date"
+        }
+      },
+      "skills": {
+        "heading": "Skills & Expertise",
+        "skill1": "Skill 1",
+        "skill2": "Skill 2",
+        "skill3": "Skill 3",
+        "skill4": "Skill 4",
+        "skill5": "Skill 5"
+      },
+      "stacks": {
+        "heading": "Stacks & Tools",
+        "tagline": "A comprehensive collection of useful tools to support and optimize my workflow",
+        "stack1": "Stack 1",
+        "stack2": "Stack 2",
+        "stack3": "Stack 3",
+        "stack4": "Stack 4",
+        "stack5": "Stack 5"
+      },
+      "connect": {
+        "linkedin": "link 1",
+        "github": "link 2",
+        "discord": "link 3",
+        "telegram": "link 4",
+        "footer": "Let's Work Together!",
+        "cta": "Send Email to",
+        "email": "me@aboutgab.com"
+      }
+    },
+    "projects": {
+      "heading": "Works & Projects",
+      "tagline": "Check out some of my design projects, meticulously crafted with love and dedication, each one reflecting the passion and soul I poured into every detail.",
+      "project1": {
+        "title": "Project 1",
+        "description": "Project 1 description",
+        "link": "Project 1 link"
+      },
+      "project2": {
+        "title": "Project 2",
+        "description": "Project 2 description",
+        "link": "Project 2 link"
+      },
+      "project3": {
+        "title": "Project 3",
+        "description": "Project 3 description",
+        "link": "Project 3 link"
+      }
+    },
+    "footer": "Gabriela Leite"
+  },
+  "es": {
+    "hero": {
+      "button": "¡Hola!",
+      "greeting": "¡Hola!",
+      "heading": "Soy Gab, una desarrolladora front-end y diseñadora UI/UX que crea interfaces centradas en el usuario con precisión perfecta de píxeles.",
+      "availability": "Disponible para Freelancing",
+      "location": "Juiz de Fora, Brasil • UTC/GMT -3:00"
+    },
+    "about": {
+      "experience": {
+        "heading": "Experiencia",
+        "company1": {
+          "title": "Compañía 1",
+          "description": "Descripción de la compañía 1",
+          "date": "Fecha de la compañía 1"
+        },
+        "company2": {
+          "title": "Compañía 2",
+          "description": "Descripción de la compañía 2",
+          "date": "Fecha de la compañía 2"
+        },
+        "company3": {
+          "title": "Compañía 3",
+          "description": "Descripción de la compañía 3",
+          "date": "Fecha de la compañía 3"
+        }
+      },
+      "skills": {
+        "heading": "Habilidades y experiencia",
+        "skill1": "Habilidad 1",
+        "skill2": "Habilidad 2",
+        "skill3": "Habilidad 3",
+        "skill4": "Habilidad 4",
+        "skill5": "Habilidad 5"
+      },
+      "stacks": {
+        "heading": "Stacks y herramientas",
+        "tagline": "Una colección completa de herramientas útiles para apoyar y optimizar mi flujo de trabajo",
+        "stack1": "Stack 1",
+        "stack2": "Stack 2",
+        "stack3": "Stack 3",
+        "stack4": "Stack 4",
+        "stack5": "Stack 5"
+      },
+      "connect": {
+        "linkedin": "link 1",
+        "github": "link 2",
+        "discord": "link 3",
+        "telegram": "link 4",
+        "footer": "¡Trabajemos juntos!",
+        "cta": "Enviar correo electrónico a",
+        "email": "me@aboutgab.com"
+      }
+    }
+  },
+  "pt-br": {
+    "hero": {
+      "button": "Dê um alô!",
+      "greeting": "Olá!",
+      "heading": "Sou Gab, desenvolvedora front-end e UI/UX designer criando interfaces centradas no usuário com precisão pixel perfect.",
+      "availability": "Disponível para Freelancing",
+      "location": "Juiz de Fora, Brasil • UTC/GMT -3:00"
+    },
+    "about": {
+      "experience": {
+        "heading": "Experiência",
+        "company1": {
+          "title": "Empresa 1",
+          "description": "Descrição da Empresa 1",
+          "date": "Data da Empresa 1"
+        },
+        "company2": {
+          "title": "Empresa 2",
+          "description": "Descrição da Empresa 2",
+          "date": "Data da Empresa 2"
+        },
+        "company3": {
+          "title": "Empresa 3",
+          "description": "Descrição da Empresa 3",
+          "date": "Data da Empresa 3"
+        }
+      },
+      "skills": {
+        "heading": "Habilidades & Expertise",
+        "skill1": "Habilidade 1",
+        "skill2": "Habilidade 2",
+        "skill3": "Habilidade 3",
+        "skill4": "Habilidade 4",
+        "skill5": "Habilidade 5"
+      },
+      "stacks": {
+        "heading": "Ferramentas & Tecnologias",
+        "tagline": "Uma coleção abrangente de ferramentas úteis para apoiar e otimizar meu fluxo de trabalho",
+        "stack1": "Tecnologia 1",
+        "stack2": "Tecnologia 2",
+        "stack3": "Tecnologia 3",
+        "stack4": "Tecnologia 4",
+        "stack5": "Tecnologia 5"
+      },
+      "connect": {
+        "linkedin": "link 1",
+        "github": "link 2",
+        "discord": "link 3",
+        "telegram": "link 4",
+        "footer": "Vamos Trabalhar Juntos!",
+        "cta": "Envie um Email para",
+        "email": "me@aboutgab.com"
+      }
+    },
+    "projects": {
+      "heading": "Trabalhos & Projetos",
+      "tagline": "Confira alguns dos meus projetos de design, meticulosamente elaborados com amor e dedicação, cada um refletindo a paixão e a alma que coloquei em cada detalhe.",
+      "project1": {
+        "title": "Projeto 1",
+        "description": "Descrição do Projeto 1",
+        "link": "Link do Projeto 1"
+      },
+      "project2": {
+        "title": "Projeto 2",
+        "description": "Descrição do Projeto 2",
+        "link": "Link do Projeto 2"
+      },
+      "project3": {
+        "title": "Projeto 3",
+        "description": "Descrição do Projeto 3",
+        "link": "Link do Projeto 3"
+      }
+    },
+    "footer": "Gabriela Leite"
+  }
+}
