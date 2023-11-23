@@ -1,4 +1,17 @@
-<div>
-  <p>{{ content.greeting }}</p>
-  <h1>{{ content.heading }}</h1>
-</div>
+<section id="hero" class="w-screen h-screen grid grid-cols-2">
+  <div class="my-auto md:px-24 w-[710px]">
+    <span class="text-base tracking-wide text-white opacity-80">{{
+      content.greeting
+    }}</span>
+    <h1 class="my-6 text-4xl font-semibold leading-[56px]">{{
+      content.heading
+    }}</h1>
+    <div class="bullet text-xs font-light tracking-wide text-white">
+      <span class="opacity-50">{{ content.availability }}</span>
+      <span class="ml-3 opacity-50">{{ content.location }}</span>
+    </div>
+  </div>
+  <div class="my-auto">
+    <img src="../../../assets/img/bg-hero-min.png" alt="Image Hero" />
+  </div>
+</section>
