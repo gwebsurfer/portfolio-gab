@@ -69,9 +69,7 @@ export interface ConnectContent {
 export interface ProjectsContent {
   heading: string;
   tagline: string;
-  project1: ProjectDetail;
-  project2: ProjectDetail;
-  project3: ProjectDetail;
+  projects: ProjectDetail[];
 }
 
 export interface ProjectDetail {

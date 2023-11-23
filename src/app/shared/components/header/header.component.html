@@ -1,9 +1,23 @@
-<header>
-  <nav>
-    <ul>
-      <li><a routerLink="/" fragment="hero">Hero</a></li>
-      <li><a routerLink="/" fragment="about">About</a></li>
-      <li><a routerLink="/" fragment="projects">Projects</a></li>
+<header class="flex align-middle justify-center z-50">
+  <nav
+    class="flex bg-[#141416/0.06] backdrop-blur mt-16 p-1.5 rounded-full fixed"
+  >
+    <ul
+      class="flex my-auto gap-8 bg-[#141416cf] backdrop-blur-[10px] p-5 rounded-full"
+    >
+      <li>
+        <a routerLink="/" fragment="hero">Hero</a>
+      </li>
+      <li>
+        <a routerLink="/" fragment="about">About</a>
+      </li>
+      <li>
+        <a routerLink="/" fragment="projects">Projects</a>
+      </li>
+      <li>|</li>
+      <li>
+        <button>Projects</button>
+      </li>
     </ul>
   </nav>
 </header>

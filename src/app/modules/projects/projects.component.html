@@ -1,1 +1,11 @@
-<p>projects works!</p>
+<section>
+  <h2>{{ content.heading }}</h2>
+  <p>{{ content.tagline }}</p>
+
+  <div class="projects">
+    <app-card
+      *ngFor="let project of content.projects"
+      [project]="project"
+    ></app-card>
+  </div>
+</section>

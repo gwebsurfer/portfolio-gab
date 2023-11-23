@@ -56,21 +56,23 @@
     "projects": {
       "heading": "Works & Projects",
       "tagline": "Check out some of my design projects, meticulously crafted with love and dedication, each one reflecting the passion and soul I poured into every detail.",
-      "project1": {
-        "title": "Project 1",
-        "description": "Project 1 description",
-        "link": "Project 1 link"
-      },
-      "project2": {
-        "title": "Project 2",
-        "description": "Project 2 description",
-        "link": "Project 2 link"
-      },
-      "project3": {
-        "title": "Project 3",
-        "description": "Project 3 description",
-        "link": "Project 3 link"
-      }
+      "projects": [
+        {
+          "title": "Project 1",
+          "description": "Project 1 description",
+          "link": "Project 1 link"
+        },
+        {
+          "title": "Project 2",
+          "description": "Project 2 description",
+          "link": "Project 2 link"
+        },
+        {
+          "title": "Project 3",
+          "description": "Project 3 description",
+          "link": "Project 3 link"
+        }
+      ]
     },
     "footer": "Gabriela Leite"
   },
